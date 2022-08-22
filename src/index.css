@@ -1,0 +1,40 @@
+body{
+  background-color:black;
+}
+.h{
+  text-align: center;
+  color: whitesmoke;
+}
+
+.nav{ 
+   background-color: #0e0c2c;
+  }  
+  .nav a{
+   color: white; 
+  
+ }
+ .nav a:hover{
+  color: red;
+ }
+
+.card2{
+   color: whitesmoke; 
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 whitesmoke;
+  background-color:#0e0c2c;
+
+}
+
+.card:hover {
+  box-shadow: 5px 0 5px 1px black;
+}
+
+.btn {
+  cursor: pointer;
+  background-color:black;
+  color:whitesmoke;
+}
+.btn:hover{
+  background-color:whitesmoke;
+  color:black;
+}

@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Jonah E. Bromwich, Ben Protess, William K. Rashbaum",
+      "title": "Live Updates: Trump to Be Questioned in New York Investigation - The New York Times",
+      "description": "The former president’s long-sought testimony marks a turning point in a civil investigation into his business practices.",
+      "url": "https://www.nytimes.com/live/2022/08/10/nyregion/trump-news-questioning",
+      "urlToImage": "https://static01.nyt.com/images/2022/08/10/multimedia/10trump-blog-carousel-06/10trump-blog-carousel-06-facebookJumbo.jpg",
+      "publishedAt": "2022-08-10T10:23:17Z",
+      "content": "Former President Donald J. Trumps legal jeopardy appeared to intensify significantly on Monday with the stunning revelation that federal agents armed with a warrant had searched his Mar-a-Lago club a… [+9780 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Tom's Guide" },
+      "author": "Jordan Palmer",
+      "title": "Samsung Unpacked live blog: Galaxy Z Fold 4, Galaxy Z Flip 4, Galaxy Watch 5 and more - Tom's Guide",
+      "description": "All the big Samsung Unpacked news as it happens",
+      "url": "https://www.tomsguide.com/news/live/samsung-unpacked-august-2022",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kKPDVcvfGng33dugxk3rXb-1200-80.jpg",
+      "publishedAt": "2022-08-10T10:09:14Z",
+      "content": "2022-08-10T10:40:10.042Z\r\n(Image credit: WinFuture)\r\nThe Galaxy Watch 5 Pro is the most exciting of the rumored new models. We've seen quite a few leaks about it, with the biggest (and most recent) b… [+4385 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Isabelle Khurshudyan, Adela Suliman, Liz Sly",
+      "title": "Ukraine's special forces undertook Crimea attack, says official - The Washington Post",
+      "description": "The attack marked a dramatic escalation in the nearly six-month-old war, demonstrating an ability by Ukrainian forces to strike farther behind Russian lines than previously believed.",
+      "url": "https://www.washingtonpost.com/world/2022/08/10/ukraine-russia-crimea-beach-blast/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VDDZ6GQX5UI63OMYWKVWR5MENA.jpg&w=1440",
+      "publishedAt": "2022-08-10T09:54:33Z",
+      "content": "Comment on this story\r\nA Ukrainian government official told The Washington Post on Wednesday that an attack on a Russian air base in occupied Crimea was the work of Ukrainian special forces.\r\nThe off… [+2379 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Pierre Bairin, Amandine Hess and Radina Gigova, CNN",
+      "title": "Beluga whale that was in France's Seine River has died, local authority says - CNN",
+      "description": "A beluga whale that was rescued after being stuck in France's Seine River for more than a week died while in transit to the sea, officials have confirmed.",
+      "url": "https://www.cnn.com/2022/08/10/europe/beluga-whale-euthanized-scli-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220810034957-01-beluga-whale-rescued-super-tease.jpg",
+      "publishedAt": "2022-08-10T09:45:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sara Murray, Zachary Cohen, Katelyn Polantz and Whitney Wild, CNN",
+      "title": "Republican congressman says FBI seized his cell phone - CNN",
+      "description": "Republican Rep. Scott Perry of Pennsylvania said Tuesday that the FBI had seized his cell phone.",
+      "url": "https://www.cnn.com/2022/08/09/politics/scott-perry-fbi-seize-cellphone/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220809184750-scott-perry-fbi-seize-cellphone-super-tease.jpg",
+      "publishedAt": "2022-08-10T09:30:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "KABC-TV" },
+      "author": null,
+      "title": "Hidden camera showed Irvine dermatologist poison husband with drain cleaner, documents allege - KABC-TV",
+      "description": "An Irvine dermatologist was caught on a hidden camera pouring drain cleaner into her husband's cup on at least three separate occasions, court documents allege.",
+      "url": "https://abc7.com/irvine-doctor-wife-poisons-husband-poisoning-attempted-murder/12113750/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12113730_080922-kabc-irvine-doctor-split-img.jpg?w=1600",
+      "publishedAt": "2022-08-10T06:01:26Z",
+      "content": "IRVINE, Calif. (KABC) -- An Irvine dermatologist was caught on a hidden camera pouring drain cleaner into her husband's cup on at least three separate occasions, court documents allege.\r\nYue \"Emily\" … [+2366 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tara Subramaniam, CNN",
+      "title": "Australian landmarks glow pink to honor Olivia Newton-John - CNN",
+      "description": "The Sydney Opera House will turn pink on Wednesday to honor Olivia Newton-John, the singer and \"Grease\" star who died on Monday in the United States.",
+      "url": "https://www.cnn.com/2022/08/10/entertainment/olivia-newton-john-australia-landmarks-light-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220809204840-02-olivia-newton-john-melbourne-australia-landmarks-light-intl-hnk-super-tease.jpg",
+      "publishedAt": "2022-08-10T05:56:00Z",
+      "content": "(CNN)The Sydney Opera House will turn pink on Wednesday to honor Olivia Newton-John, the singer and \"Grease\" star who died on Monday in the United States.\r\nOther Australian landmarks including Optus … [+2065 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Carmen Reinicke",
+      "title": "Stock futures flat as investors brace for July inflation report - CNBC",
+      "description": "Investors are awaiting the July consumer price index report due Wednesday, which will give the Federal Reserve further data on inflation.",
+      "url": "https://www.cnbc.com/2022/08/09/stock-futures-tick-up-as-investors-brace-for-july-inflation-report-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107077011-1655393548449-glasses.jpg?v=1655393621&w=1920&h=1080",
+      "publishedAt": "2022-08-10T05:26:00Z",
+      "content": "Stock futures were little changed early on Wednesday as investors looked ahead to a key inflation report set to be released Wednesday.\r\nDow Jones Industrial Average futures were flat. S&amp;P 500 and… [+1233 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Graeme Massie",
+      "title": "China discovers potentially fatal new virus passed to humans from shrews - The Independent",
+      "description": "The Langya Henipavirus, known as “Langya”, has already infected 35 people says Taiwan’s Centers for Disease Control",
+      "url": "https://www.independent.co.uk/asia/china/new-virus-in-china-2022-langya-shrews-b2141974.html",
+      "urlToImage": "https://static.independent.co.uk/2022/08/09/18/iStock-965474580.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-08-10T04:51:16Z",
+      "content": "China has discovered a potentially fatal new virus that is believed to have been passed to humans by shrews, according to reports.\r\nThe Langya Henipavirus, known as Langya, has already infected 35 pe… [+1275 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Musk sells Tesla shares worth $6.9 billion, cites chance of forced Twitter deal - Reuters.com",
+      "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> Chief Executive Officer Elon Musk sold $6.9 billion worth of shares in the electric vehicle maker, saying the funds could be used to finance a potential Twitter deal if …",
+      "url": "https://www.reuters.com/business/autos-transportation/elon-musk-sells-792-million-tesla-shares-worth-69-billion-sec-filing-2022-08-10/",
+      "urlToImage": "https://www.reuters.com/resizer/SF3RL4wYCDiQ98HiIIER-olZ6eM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XFTKTFGW6VI65KS2CXYZND5TBU.jpg",
+      "publishedAt": "2022-08-10T04:35:00Z",
+      "content": "Aug 10 (Reuters) - Tesla Inc (TSLA.O) Chief Executive Officer Elon Musk sold $6.9 billion worth of shares in the electric vehicle maker, saying the funds could be used to finance a potential Twitter … [+2421 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Election results 2022: Trump and Pence picks locked in close battle for Wisconsin governor nomination - POLITICO - POLITICO",
+      "description": "Democratic Rep. Ilhan Omar is also locked in a tight primary as voters head to the polls across four states.",
+      "url": "https://www.politico.com/news/2022/08/09/trumps-gop-key-governors-race-wisconsin-00050717",
+      "urlToImage": "https://static.politico.com/00/69/45fbf9a148e9a6c9c8078c09b0f7/correction-election-2022-wisconsin-governor-85137.jpg",
+      "publishedAt": "2022-08-10T04:05:57Z",
+      "content": "The Wisconsin gubernatorial primary was the headline election across four states Tuesday. But another blockbuster popped up in Minnesota, where Democratic Rep. Ilhan Omar squeaked by a tight primary … [+5825 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ben Morse, CNN",
+      "title": "Serena Williams announces she will 'evolve away from tennis' after upcoming US Open - CNN",
+      "description": "Serena Williams has announced that she will \"evolve away from tennis\" after this year's US Open to focus on \"other things that are important to me.\"",
+      "url": "https://www.cnn.com/2022/08/09/tennis/serena-williams-retirement-tennis-spt-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220809092159-01-serena-williams-lead-image-super-tease.jpg",
+      "publishedAt": "2022-08-10T03:49:00Z",
+      "content": "(CNN)Serena Williams has announced that she will \"evolve away from tennis\" after this year's US Open to focus on \"other things that are important to me.\"\r\nIn an article in Vogue, the 23-time grand sl… [+4611 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MMA Fighting" },
+      "author": "MMA Fighting Newswire",
+      "title": "Michael Bisping: Bo Nickal ‘chasing the money,’ advises him to ‘slow your roll’ - MMA Fighting",
+      "description": "Former UFC middleweight champ Michael Bisping urged Bo Nickal pursue his octagon career with caution.",
+      "url": "https://www.mmafighting.com/2022/8/9/23299352/michael-bisping-bo-nickal-chasing-the-money-advises-him-to-slow-your-roll",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ltkVVFnfzX73eLB2FqKZ_td_FwE=/0x0:4993x2614/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23934542/1410328644.jpg",
+      "publishedAt": "2022-08-10T03:45:53Z",
+      "content": "Like everyone else at the UFC APEX, former middleweight champion Michael Bisping was impressed by Bo Nickals second pro win in the DWCS headliner on Tuesday night. \r\nBut the ex-champ and DWCS comment… [+2052 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Gawon Bae and Jessie Yeung, CNN",
+      "title": "Record rainfall kills at least 9 in Seoul as water floods buildings, submerges cars - CNN",
+      "description": "Record downpours flooded homes, roads and subway stations in the South Korean capital Seoul this week, killing at least nine people, as forecasters warned of more rain to come.",
+      "url": "https://www.cnn.com/2022/08/09/asia/seoul-south-korea-rain-flooding-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220809224824-03-seoul-south-korea-rain-flooding-restricted-super-tease.jpg",
+      "publishedAt": "2022-08-10T03:32:00Z",
+      "content": "Seoul, South Korea (CNN)Record downpours flooded homes, roads and subway stations in the South Korean capital Seoul this week, killing at least nine people, as forecasters warned of more rain to come… [+3068 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Science X staff",
+      "title": "New giant deep-sea isopod discovered in the Gulf of Mexico - Phys.org",
+      "description": "Researchers have identified a new species of Bathonymus, the famed genera of deep-sea isopods whose viral internet fame has made them the most famous aquatic crustaceans since Sebastian of \"The Little Mermaid.\"",
+      "url": "https://phys.org/news/2022-08-giant-deep-sea-isopod-gulf-mexico.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-giant-deep-sea-iso.jpg",
+      "publishedAt": "2022-08-10T03:00:01Z",
+      "content": "Researchers have identified a new species of Bathonymus, the famed genera of deep-sea isopods whose viral internet fame has made them the most famous aquatic crustaceans since Sebastian of \"The Littl… [+5050 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Space.com" },
+      "author": "Mike Wall",
+      "title": "SpaceX launches 52 Starlink satellites, lands rocket at sea - Space.com",
+      "description": "Starlink batches keep going up.",
+      "url": "https://www.space.com/spacex-starlink-group-4-26-launch-rocket-landing",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/A5WUf8SkHEqVhAnh4CFgbB-1200-80.jpeg",
+      "publishedAt": "2022-08-10T02:45:57Z",
+      "content": "SpaceX launched another big batch of its Starlink internet satellites to orbit and landed a rocket on a ship at sea on Tuesday (Aug. 9).\r\nA two-stage Falcon 9\r\n rocket topped with 52 Starlink\r\n space… [+3070 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Nebraska woman charged with helping daughter have abortion - POLITICO",
+      "description": "Investigators uncovered Facebook messages in which the two allegedly discussed using medication to induce an abortion.",
+      "url": "https://www.politico.com/news/2022/08/09/nebraska-woman-charged-with-helping-daughter-have-abortion-00050763",
+      "urlToImage": "https://static.politico.com/ed/45/cb61136c42198aaa8a8caa222aab/facebook-abortion-pills-46795.jpg",
+      "publishedAt": "2022-08-10T02:13:03Z",
+      "content": "The daughter, meanwhile, talks about how she cant wait to get the thing out of her body, a detective wrote in court documents. I will finally be able to wear jeans, she says in one of the messages. L… [+3206 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Chuck Johnston",
+      "title": "Grand jury declines to indict Carolyn Bryant Donham, the woman whose accusations led to the death of Emmett Till - CNN",
+      "description": "A grand jury in Mississippi has declined to indict the White woman who accused 14-year-old Emmett Till of making advances toward her nearly 70 years ago, allegations that led to the Black teen's brutal death.",
+      "url": "https://www.cnn.com/2022/08/09/us/emmett-till-carolyn-bryant-no-indictment-reaj/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/211206180314-01-emmett-till-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-08-10T02:06:00Z",
+      "content": "A grand jury in Mississippi has declined to indict the White woman who accused 14-year-old Emmett Till of making advances toward her nearly 70 years ago, allegations that led to the Black teens bruta… [+5451 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Chris Haynes",
+      "title": "Inside LeBron James' meeting with Lakers front office: Darvin Ham's offensive plan, Rob Pelinka's roster patience - Yahoo Sports",
+      "description": "Lakers first-year coach Darvin Ham will stick with having the offense run through Anthony Davis and James concurred, sources said.",
+      "url": "https://sports.yahoo.com/inside-lebron-james-meeting-with-lakers-front-office-darvin-ham-offensive-plan-rob-pelinka-roster-patience-014115495.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FjlXkLdY2KaIkD_zrb4tsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/7798ff10-184c-11ed-a77d-fb2a852dce3e",
+      "publishedAt": "2022-08-10T01:41:00Z",
+      "content": "LOS ANGELES It was a grand opening ceremony for one of sports' iconic franchises in late July.\r\nLos Angeles Lakers owner Jeanie Buss, along with former Laker greats, were in attendance at the teams p… [+4540 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Biden Administration Moves To Stretch Out Monkeypox Vaccine Supply Amid Criticism - NBC News",
+      "description": "The White House response team is announcing “game-changing” plans to stretch out the U.S. monkeypox vaccine supply with guidance from the FDA. The moves come...",
+      "url": "https://www.youtube.com/watch?v=z_L4tUXuhgA",
+      "urlToImage": "https://i.ytimg.com/vi/z_L4tUXuhgA/maxresdefault.jpg",
+      "publishedAt": "2022-08-10T01:30:11Z",
+      "content": null
+    }
+  ]
+}
