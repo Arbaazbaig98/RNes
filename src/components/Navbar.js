@@ -1,9 +1,8 @@
-import React from 'react'
+import React,{useState} from 'react'
 import { Link } from "react-router-dom"
 
-const Navbar = () => {
- 
-
+const Navbar = (props) => {
+  
   return (
     <div>
       <nav class="navbar fixed-top navbar-expand-lg nav">
@@ -18,7 +17,7 @@ const Navbar = () => {
                 <Link className="nav-link" aria-current="page" to="/">Home</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/sports">Sports</Link>
+                <Link className="nav-link left" to="/sports">Sports</Link>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="/business">Business</Link>
@@ -33,6 +32,10 @@ const Navbar = () => {
                 <Link className="nav-link" to="/science">Science</Link>
               </li>
             </ul>
+            <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" onChange={props.btn} value={props.search}/>
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
           </div>
         </div>
       </nav>

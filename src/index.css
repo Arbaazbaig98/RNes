@@ -8,13 +8,14 @@ body{
 
 .nav{ 
    background-color: #0e0c2c;
+   
   }  
   .nav a{
    color: white; 
   
  }
  .nav a:hover{
-  color: red;
+  color: rgb(197, 102, 102);
  }
 
 .card2{
@@ -37,4 +38,8 @@ body{
 .btn:hover{
   background-color:whitesmoke;
   color:black;
+}
+
+a.g{
+  color:white;
 }
