@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Arbaazbaig98/NewsApp/static/css/main.ad6804cd.css",
-    "main.js": "/Arbaazbaig98/NewsApp/static/js/main.188c32fc.js",
-    "static/js/787.4c026eef.chunk.js": "/Arbaazbaig98/NewsApp/static/js/787.4c026eef.chunk.js",
-    "index.html": "/Arbaazbaig98/NewsApp/index.html",
-    "main.ad6804cd.css.map": "/Arbaazbaig98/NewsApp/static/css/main.ad6804cd.css.map",
-    "main.188c32fc.js.map": "/Arbaazbaig98/NewsApp/static/js/main.188c32fc.js.map",
-    "787.4c026eef.chunk.js.map": "/Arbaazbaig98/NewsApp/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/Arbaazbaig98/RNes/static/css/main.ad6804cd.css",
+    "main.js": "/Arbaazbaig98/RNes/static/js/main.d16efb36.js",
+    "static/js/787.4c026eef.chunk.js": "/Arbaazbaig98/RNes/static/js/787.4c026eef.chunk.js",
+    "index.html": "/Arbaazbaig98/RNes/index.html",
+    "main.ad6804cd.css.map": "/Arbaazbaig98/RNes/static/css/main.ad6804cd.css.map",
+    "main.d16efb36.js.map": "/Arbaazbaig98/RNes/static/js/main.d16efb36.js.map",
+    "787.4c026eef.chunk.js.map": "/Arbaazbaig98/RNes/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad6804cd.css",
-    "static/js/main.188c32fc.js"
+    "static/js/main.d16efb36.js"
   ]
 }
