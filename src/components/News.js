@@ -13,6 +13,7 @@ const News =(props)=>{
   
   
   
+  useEffect(() => {
   const updateNews=async ()=>{
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page}&pagesize=${props.pageSize}`;
     setLoading(true);
@@ -24,15 +25,14 @@ const News =(props)=>{
     setLoading(false)
     
   }
-  function capitalizeFirstLetter(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-  }
-  useEffect(() => {
-    document.title=`${capitalizeFirstLetter(props.category)} - NewsApp`;
-    updateNews();
+  document.title=`${capitalizeFirstLetter(props.category)} - NewsApp`;
+  updateNews();
+  
+},[page, props.apiKey, props.category, props.country, props.pageSize])
 
-  },[])
- 
+function capitalizeFirstLetter(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
 
  const fetchMoreData =async () => {
  

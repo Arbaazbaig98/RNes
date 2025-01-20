@@ -26,7 +26,7 @@ const App =()=> {
   const apiKey=process.env.REACT_APP_NEWS_API_KEY
     return (
       <div className='App'>
-      <Router basename='/RNes' >
+      <Router  >
 
     <Navbar
       // btn={btn}
