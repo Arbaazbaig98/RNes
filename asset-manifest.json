@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Arbaazbaig98/RNes/static/css/main.ee97da1f.css",
-    "main.js": "/Arbaazbaig98/RNes/static/js/main.73c87a84.js",
-    "static/js/787.4c026eef.chunk.js": "/Arbaazbaig98/RNes/static/js/787.4c026eef.chunk.js",
+    "main.css": "/Arbaazbaig98/RNes/static/css/main.98239058.css",
+    "main.js": "/Arbaazbaig98/RNes/static/js/main.0635710c.js",
+    "static/js/787.6643f1c0.chunk.js": "/Arbaazbaig98/RNes/static/js/787.6643f1c0.chunk.js",
     "index.html": "/Arbaazbaig98/RNes/index.html",
-    "main.ee97da1f.css.map": "/Arbaazbaig98/RNes/static/css/main.ee97da1f.css.map",
-    "main.73c87a84.js.map": "/Arbaazbaig98/RNes/static/js/main.73c87a84.js.map",
-    "787.4c026eef.chunk.js.map": "/Arbaazbaig98/RNes/static/js/787.4c026eef.chunk.js.map"
+    "main.98239058.css.map": "/Arbaazbaig98/RNes/static/css/main.98239058.css.map",
+    "main.0635710c.js.map": "/Arbaazbaig98/RNes/static/js/main.0635710c.js.map",
+    "787.6643f1c0.chunk.js.map": "/Arbaazbaig98/RNes/static/js/787.6643f1c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee97da1f.css",
-    "static/js/main.73c87a84.js"
+    "static/css/main.98239058.css",
+    "static/js/main.0635710c.js"
   ]
 }
