@@ -1,8 +1,8 @@
 {
   "name": "newsapp",
   "version": "0.1.0",
-  "homepage": "https://github.com/Arbaazbaig98/NewsApp",
   "private": true,
+  
   "dependencies": {
     "@alan-ai/alan-sdk-web": "^1.8.54",
     "@testing-library/jest-dom": "^5.16.5",
@@ -43,6 +43,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+     "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
   }
 }
