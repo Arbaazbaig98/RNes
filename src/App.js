@@ -25,13 +25,13 @@ const App =()=> {
   const apiKey=process.env.REACT_APP_NEWS_API_KEY
     return (
       <div>
-      <Router>
+      <Router basename='/RNes'>
 
     <Navbar
       // btn={btn}
       // search={search}
     />
-      <Routes basename='/RNes'> 
+      <Routes > 
       <Route exact path="/" element={<News key="general" pageSize={pageSize} apiKey={apiKey}  country='us' category='general'/>} />
       <Route exact path="/sports" element={<News key="sports"  pageSize={pageSize} apiKey={apiKey} country='us' category='sports'/>} />
       <Route exact path="/business" element={<News key="business" pageSize={pageSize} apiKey={apiKey} country='us' category='business'/>} />
