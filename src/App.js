@@ -22,7 +22,7 @@ const App =()=> {
 //   });
 // }, []);
   const pageSize=6;
-  const apiKey=process.env.REACT_APP_NEWS_API_KEY
+  const apiKey='5f6b52de8d4248f8b8c82b2cc0da48e4'
     return (
       <div>
       <Router basename='/RNes'>
