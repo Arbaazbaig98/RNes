@@ -1,6 +1,6 @@
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 // import './App.css';
-import React ,{ useEffect } from 'react'
+import React from 'react'
 import Navbar from './components/Navbar'
 import News from './components/News'
 import { BrowserRouter as Router,Routes,Route,} from "react-router-dom";
@@ -26,7 +26,7 @@ const App =()=> {
   const apiKey=process.env.REACT_APP_NEWS_API_KEY
     return (
       <div className='App'>
-      <Router >
+      <Router basename='/RNes' >
 
     <Navbar
       // btn={btn}
